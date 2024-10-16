@@ -1,16 +1,11 @@
 ## Hi there 👋
 I'm Joy Isaiah. An Educationist, Virtual Assistant and Video Editor from Nigeria.
 <!--
-**Ja4ya/Ja4ya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ja4ya/Ja4ya** is an ✨ Administrative Virtual Assistant specializing in research, data entry and equipped with organisation and project management skills.✨ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ... anything you'd like to know.
 - 📫 How to reach me: isaiah.joy@outlook.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a terrible dancer
--->
+Thanks for stopping by.
